@@ -23,8 +23,7 @@ public class RangeOfArmStrongNumbers {
                        {
                     	 
                     	  list.add(k);
-                             
-                    	  System.out.println (list);
+                      
                         }
                       
 		
